@@ -7,7 +7,7 @@ $(document).ready(function() {
       paginationSpeed : 400,
       singleItem:true,
       autoPlay : true,
-      items : 4,
+      items : 1,
       mouseDrag : true,
       touchDrag : true,
  
